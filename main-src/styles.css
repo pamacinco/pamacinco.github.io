@@ -15,7 +15,7 @@ html {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url('https://media.discordapp.net/attachments/1010657289507704872/1148779406681194566/image.png?width=902&height=507');
+    background-image: url('./image.png');
     background-size: cover;
     background-repeat: no-repeat;
 }
